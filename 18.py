@@ -131,7 +131,7 @@ screen.exitonclick()
 #     tim.color(random.choice(colors))
 #     draw_shape(shape_side_n)
 
-# Crated the shapdes in different colors______________________------------------___________________----------------------------------
+# Crated the shapdes in different colors______________________------------------_////////////////////////__________________----------------------------------
 
 # for r in range(4):
 #     for _ in range(15):
