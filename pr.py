@@ -387,7 +387,7 @@ while son:
     # move the snake
         for index in range(len(bodies) -1,0,-1):
             x = bodies[index -1].xcor()
-            y = bodies[index -1].ycor()
+            y = bodies[index -1]
             bodies[0].goto(x,y)
         move()
     
