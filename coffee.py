@@ -28,8 +28,7 @@ resources = {
     "water": 300,
     "milk":200,
     "coffee":100,
-}
-
+#//this is is this
 
 def is_resource_sufficient(order_ingredient):
     is_enough = True
