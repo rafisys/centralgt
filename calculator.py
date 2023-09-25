@@ -23,7 +23,7 @@ operations={
     "/": divide
 }
 def calculator():
-    num1=int(input("Enter the number ? "))
+    num1=int(input("Enter the numbe r ? "))
 
     for symbols in operations:
         print(symbols)
